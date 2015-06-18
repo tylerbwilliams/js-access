@@ -1,0 +1,11 @@
+{
+  "name": "js-access",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "gulp && node build/main"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0"
+  }
+}

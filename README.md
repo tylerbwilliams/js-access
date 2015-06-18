@@ -9,7 +9,7 @@ npm start
 
 # Content
 
-[source/human.js](source/human.js)
+[source/human.js](source/human.js?ts=2)
 
 This is a simple ES6 class.
 
@@ -28,7 +28,7 @@ what values will break when reassigned, conflicting names,
 and different naming schemes between organizations will
 make integrating more difficult.
 
-[source/hobbit.js](source/hobbit.js)
+[source/hobbit.js](source/hobbit.js?ts=2)
 
 This is an ES6 class with basic private properties.
 
@@ -61,7 +61,7 @@ if you aren't planning on writing a complex web app and
 know your specs don't include dynamic variables, this 
 should be enough for you.
 
-[source/dwarf.js](source/dwarf.js)
+[source/dwarf.js](source/dwarf.js?ts=2)
 
 This is an ES6 class with a private property map.
 
@@ -85,7 +85,7 @@ frequently access deep private variable chains.  This will
 be useful when you are creating singletons, and when your
 objects need a dynamically defined variable every so often.
 
-[source/elf.js](source/elf.js)
+[source/elf.js](source/elf.js?ts=2)
 
 This is an ES6 class with a private utility function.
 
@@ -108,7 +108,7 @@ lower skilled developers, and/or your linting is loose. The
 additional code will also slow development time, but only
 until Proxy support is widespread (see below).
 
-[source/wizard.js](source/wizard.js)
+[source/wizard.js](source/wizard.js?ts=2)
 
 This is an ES6 class with a private utility function and
 read-only access to methods.

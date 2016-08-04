@@ -1,6 +1,12 @@
 # js-access
 Access Control For ES6 Classes
 
+# Note: Try the private-access package
+
+I recently published a module that uses Proxies and Symbols to make it
+dramatically easier to create private access variables in ES6-
+compatible environments: https://github.com/tylerbwilliams/private-access
+
 # Running
 ```
 npm install
